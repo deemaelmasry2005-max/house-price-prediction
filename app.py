@@ -23,7 +23,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).resolve().parent
 
-MODEL_PATH = BASE_DIR / "models" / "house_price.pkl"
+MODEL_PATH = BASE_DIR / "models" / "house_price_random_forest.pkl"
 LOCATIONS_PATH = BASE_DIR / "models" / "locations.json"
 
 
