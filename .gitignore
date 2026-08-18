@@ -1,0 +1,3 @@
+data/house_prices.csv
+models/house_price.pkl
+backend/models/house_price_random_forest.pkl
